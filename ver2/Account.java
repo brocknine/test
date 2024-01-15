@@ -5,10 +5,6 @@ public class Account {
 	private double balance; //new comment
 	private String name;
 	
-	// Constructor
-	public Account(double balance) {
-		this.balance = balance;
-	}
 	
 	public Account(String name, double balance) {
 		this.name = name;
